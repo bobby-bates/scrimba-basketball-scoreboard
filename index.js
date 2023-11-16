@@ -38,6 +38,4 @@ function newGame() {
     guestCountDisplay.textContent = 0
     // Clear any highlighted score:
     highlightLeader()
-    
-    // Reset & start timer
 }
