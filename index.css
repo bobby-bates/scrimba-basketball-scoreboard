@@ -35,6 +35,11 @@ body {
     margin: 20px 0 25px;
 }
 
+#timerDisplay {
+    font-size: 40px;
+    padding: 4px 10px 0;
+}
+
 button {
     color: #9AABD8;
     font-family: 'Cursed Timer ULiL', sans-serif;
